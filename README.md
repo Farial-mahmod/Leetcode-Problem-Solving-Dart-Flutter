@@ -12,3 +12,4 @@ Most problem solutions are found either in Java or in C / C++ on the internet . 
 | Climbing Stairs         |  ClimbingStairs.dart        |
 | Add Strings             |  AddStrings.dart            |
 | Convert the Temperature |  ConvertTheTemperature.dart |
+| Base 7                  |  BaseSeven.dart             |
