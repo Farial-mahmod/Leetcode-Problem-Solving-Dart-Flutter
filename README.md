@@ -14,3 +14,12 @@ Most problem solutions are found either in Java or in C / C++ on the internet . 
 | Convert the Temperature |  ConvertTheTemperature.dart |
 | Base 7                  |  BaseSeven.dart             |
 | Contains Duplicate      |  ContainsDuplicate.dart     |
+| Move Zeroes             |  MoveZeroes.dart            |
+
+
+
+
+An example screenshot of a competitive programming problem solution in Dart language submitted to Leetcode.com .
+
+![convert](https://user-images.githubusercontent.com/60639522/204693712-2c1e8ec3-2f89-4c5b-819e-a886300b6fcb.png)
+
